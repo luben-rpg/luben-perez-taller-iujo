@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\bin\Debug\net10.0\Reto3.exe
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\bin\Debug\net10.0\Reto3.deps.json
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\bin\Debug\net10.0\Reto3.runtimeconfig.json
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\bin\Debug\net10.0\Reto3.dll
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\bin\Debug\net10.0\Reto3.pdb
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.AssemblyInfo.cs
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.sourcelink.json
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.dll
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\refint\Reto3.dll
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.pdb
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\Reto3.genruntimeconfig.cache
+C:\Users\PC\Desktop\taller luben_Perez\retos\Reto3\obj\Debug\net10.0\ref\Reto3.dll
