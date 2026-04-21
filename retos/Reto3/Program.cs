@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        string rutaCarpeta = Directory.GetCurrentDirectory();
+        string rutaCarpeta = Directory.GetCurrentDirectory();// De esta manera podemo ubicarnos dentro de nuestro  
         
         Console.WriteLine("--- Iniciando limpieza de archivos pesados en la carpeta ---");
         
